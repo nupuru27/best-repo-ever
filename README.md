@@ -1,2 +1,2 @@
 # best-repo-ever
-Made change under My Branch 1
+New change under My Branch 1
